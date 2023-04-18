@@ -1,0 +1,99 @@
+{
+    "tags": [
+        [
+            "ferry",
+            0.7535364627838135
+        ],
+        [
+            "boat",
+            0.11825473606586456
+        ],
+        [
+            "sailing",
+            0.04353037849068642
+        ],
+        [
+            "passenger",
+            0.017155831679701805
+        ],
+        [
+            "shore",
+            0.014370355755090714
+        ],
+        [
+            "across",
+            0.012503674253821373
+        ],
+        [
+            "along",
+            0.006317504681646824
+        ],
+        [
+            "blue",
+            0.0052773249335587025
+        ],
+        [
+            "water",
+            0.004507056903094053
+        ],
+        [
+            "top",
+            0.00447666784748435
+        ],
+        [
+            "traveling",
+            0.004263872746378183
+        ],
+        [
+            "lake",
+            0.003786205081269145
+        ],
+        [
+            "large",
+            0.0035338359884917736
+        ],
+        [
+            "middle",
+            0.003045430639758706
+        ],
+        [
+            "ocean",
+            0.0023193969391286373
+        ],
+        [
+            "next",
+            0.0016158540965989232
+        ],
+        [
+            "side",
+            0.0006239817012101412
+        ],
+        [
+            "mountain",
+            0.0004103778919670731
+        ],
+        [
+            "white",
+            0.00020501279504969716
+        ],
+        [
+            "sitting",
+            0.00017437666247133166
+        ],
+        [
+            "body",
+            9.171696001430973e-05
+        ]
+    ],
+    "captions": [
+        "a large boat traveling across a large body of water"
+    ],
+    "english_cap": [
+        "a large boat in the middle of some water",
+        "large blue and white boat in the ocean next to shore",
+        "a boat that is sitting on top of a lake",
+        "the large passenger boat is sailing along side the mountain",
+        "a ferry boat is traveling through the water",
+        "a large boat traveling across a large body of water"
+    ]
+}

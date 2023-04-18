@@ -1,0 +1,67 @@
+{
+    "tags": [
+        [
+            "trophy",
+            0.3576512634754181
+        ],
+        [
+            "football",
+            0.3519761264324188
+        ],
+        [
+            "holding",
+            0.1739373356103897
+        ],
+        [
+            "one",
+            0.044762831181287766
+        ],
+        [
+            "man",
+            0.02884911745786667
+        ],
+        [
+            "cap",
+            0.013352405279874802
+        ],
+        [
+            "arm",
+            0.009740919806063175
+        ],
+        [
+            "player",
+            0.009311645291745663
+        ],
+        [
+            "game",
+            0.004437800496816635
+        ],
+        [
+            "crowd",
+            0.0037438159342855215
+        ],
+        [
+            "front",
+            0.001314219320192933
+        ],
+        [
+            "hand",
+            0.0006515599088743329
+        ],
+        [
+            "wearing",
+            0.00027105011395178735
+        ]
+    ],
+    "captions": [
+        "a football player holding a trophy in front of a crowd"
+    ],
+    "english_cap": [
+        "a player holding the trophy in his hand",
+        "a man holding a trophy with one hand and the other arm in his other",
+        "a man holding a trophy at a game",
+        "a man with a football trophy in his hand",
+        "a man wearing a cap and holding a trophy",
+        "a football player holding a trophy in front of a crowd"
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "tags": [
+        [
+            "memorial",
+            0.857288122177124
+        ],
+        [
+            "fence",
+            0.03963020443916321
+        ],
+        [
+            "gathered",
+            0.02289428748190403
+        ],
+        [
+            "children",
+            0.017378147691488266
+        ],
+        [
+            "adults",
+            0.010885062627494335
+        ],
+        [
+            "stand",
+            0.007178816478699446
+        ],
+        [
+            "two",
+            0.006138569675385952
+        ],
+        [
+            "front",
+            0.004788881633430719
+        ],
+        [
+            "near",
+            0.004122400656342506
+        ],
+        [
+            "people",
+            0.004066558554768562
+        ],
+        [
+            "many",
+            0.003944271709769964
+        ],
+        [
+            "snow",
+            0.0034140327479690313
+        ],
+        [
+            "around",
+            0.0034090778790414333
+        ],
+        [
+            "group",
+            0.00333918584510684
+        ],
+        [
+            "background",
+            0.0026267999783158302
+        ],
+        [
+            "animals",
+            0.002315517980605364
+        ],
+        [
+            "standing",
+            0.002297081984579563
+        ],
+        [
+            "set",
+            0.00178601685911417
+        ],
+        [
+            "flowers",
+            0.0014684803318232298
+        ],
+        [
+            "stuffed",
+            0.000978299998678267
+        ],
+        [
+            "a\u5317",
+            5.013681584387086e-05
+        ]
+    ],
+    "captions": [
+        "a group of people standing in front of a fence"
+    ],
+    "english_cap": [
+        "people standing near a fence with a\u5317 fence in the background",
+        "people are gathered in the snow near a fence",
+        "two adults and children standing at a fence that has been set up for memorial",
+        "people with stuffed animals in front of a fence with many flowers",
+        "a group of people stand around the fence of flowers",
+        "a group of people standing in front of a fence"
+    ]
+}

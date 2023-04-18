@@ -1,0 +1,115 @@
+{
+    "tags": [
+        [
+            "suitcases",
+            0.4795844852924347
+        ],
+        [
+            "trunk",
+            0.27441486716270447
+        ],
+        [
+            "hockey",
+            0.1676236242055893
+        ],
+        [
+            "rink",
+            0.024384429678320885
+        ],
+        [
+            "boxes",
+            0.023108122870326042
+        ],
+        [
+            "luggage",
+            0.016574367880821228
+        ],
+        [
+            "game",
+            0.006204549688845873
+        ],
+        [
+            "equipment",
+            0.0018250078428536654
+        ],
+        [
+            "top",
+            0.0015933569520711899
+        ],
+        [
+            "collection",
+            0.0011940397089347243
+        ],
+        [
+            "stacked",
+            0.0009779281681403518
+        ],
+        [
+            "ice",
+            0.0005528019974008203
+        ],
+        [
+            "old",
+            0.00036464075674302876
+        ],
+        [
+            "painted",
+            0.0002986451727338135
+        ],
+        [
+            "colored",
+            0.0002936710079666227
+        ],
+        [
+            "pieces",
+            0.0002309325209353119
+        ],
+        [
+            "different",
+            0.00017190964717883617
+        ],
+        [
+            "two",
+            0.00017072171613108367
+        ],
+        [
+            "next",
+            0.00016527123807463795
+        ],
+        [
+            "three",
+            0.0001225424639414996
+        ],
+        [
+            "teams",
+            4.134023765800521e-05
+        ],
+        [
+            "floor",
+            3.9763381209922954e-05
+        ],
+        [
+            "style",
+            3.900708179571666e-05
+        ],
+        [
+            "sit",
+            1.879815863503609e-05
+        ],
+        [
+            "sitting",
+            5.086146302346606e-06
+        ]
+    ],
+    "captions": [
+        "a trunk with a hockey game on top of it"
+    ],
+    "english_cap": [
+        "three old hockey rink game pieces stacked on each other",
+        "a collection of boxes with different teams painted on them",
+        "two boxes of game pieces sitting next to each other",
+        "hockey rink style ice hockey equipment sitting on top of two suitcases",
+        "three different colored pieces of luggage sit on a floor",
+        "a trunk with a hockey game on top of it"
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "tags": [
+        [
+            "snowy",
+            0.2651488780975342
+        ],
+        [
+            "buildings",
+            0.18110506236553192
+        ],
+        [
+            "snow",
+            0.17002443969249725
+        ],
+        [
+            "sidewalk",
+            0.12583939731121063
+        ],
+        [
+            "street",
+            0.10574590414762497
+        ],
+        [
+            "row",
+            0.05505826696753502
+        ],
+        [
+            "walking",
+            0.025981010869145393
+        ],
+        [
+            "city",
+            0.016095632687211037
+        ],
+        [
+            "brick",
+            0.016082851216197014
+        ],
+        [
+            "parked",
+            0.012684940360486507
+        ],
+        [
+            "across",
+            0.009353234432637691
+        ],
+        [
+            "tall",
+            0.0066015031188726425
+        ],
+        [
+            "cars",
+            0.002728675492107868
+        ],
+        [
+            "ground",
+            0.0016225872095674276
+        ],
+        [
+            "covered",
+            0.0015807189047336578
+        ],
+        [
+            "front",
+            0.0007758708670735359
+        ],
+        [
+            "past",
+            0.000744274293538183
+        ],
+        [
+            "uan",
+            0.000732660642825067
+        ],
+        [
+            "person",
+            0.0006120622274465859
+        ],
+        [
+            "side",
+            0.0005446177674457431
+        ],
+        [
+            "man",
+            0.0005084957228973508
+        ],
+        [
+            "woman",
+            0.000225832627620548
+        ],
+        [
+            "covering",
+            0.00020311558910179883
+        ]
+    ],
+    "captions": [
+        "a man walking down a snow covered street"
+    ],
+    "english_cap": [
+        "a woman walking across a street with snow on the ground",
+        "uan in a city street, with tall buildings and cars parked on the side",
+        "the snow is covering all the cars in front of a row of brick buildings",
+        "a person is walking on a snowy street",
+        "a man walking across a snowy sidewalk past tall buildings",
+        "a man walking down a snow covered street"
+    ]
+}

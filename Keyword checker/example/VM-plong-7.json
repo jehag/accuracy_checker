@@ -1,0 +1,83 @@
+{
+    "tags": [
+        [
+            "man",
+            0.24697741866111755
+        ],
+        [
+            "standing",
+            0.21941648423671722
+        ],
+        [
+            "writing",
+            0.13339349627494812
+        ],
+        [
+            "wall",
+            0.056688342243433
+        ],
+        [
+            "brick",
+            0.052423346787691116
+        ],
+        [
+            "near",
+            0.051444895565509796
+        ],
+        [
+            "beard",
+            0.045215070247650146
+        ],
+        [
+            "looking",
+            0.04264191538095474
+        ],
+        [
+            "leaning",
+            0.036678560078144073
+        ],
+        [
+            "front",
+            0.034933801740407944
+        ],
+        [
+            "outside",
+            0.02779124118387699
+        ],
+        [
+            "folded",
+            0.014836080372333527
+        ],
+        [
+            "leans",
+            0.01008352730423212
+        ],
+        [
+            "graffiti",
+            0.009491957724094391
+        ],
+        [
+            "glasses",
+            0.007024836726486683
+        ],
+        [
+            "back",
+            0.006849566008895636
+        ],
+        [
+            "arms",
+            0.0041094752959907055
+        ]
+    ],
+    "captions": [
+        "a man standing in front of a brick wall"
+    ],
+    "english_cap": [
+        "a man leaning up against a brick wall with his arms folded",
+        "a man in front of graffiti writing and a brick wall",
+        "a man with a beard and glasses leans against a brick wall",
+        "man in front of a brick wall and graffiti",
+        "the man standing outside near a brick wall is looking back",
+        "a man standing in front of a brick wall"
+    ]
+}

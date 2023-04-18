@@ -1,0 +1,1 @@
+https://server-app.wittyriver-06391a5d.eastus.azurecontainerapps.io/caption-single-image

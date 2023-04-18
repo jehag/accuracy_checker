@@ -1,0 +1,79 @@
+{
+    "tags": [
+        [
+            "bus",
+            0.4055991470813751
+        ],
+        [
+            "podium",
+            0.2662649154663086
+        ],
+        [
+            "political",
+            0.08445889502763748
+        ],
+        [
+            "speech",
+            0.0690486803650856
+        ],
+        [
+            "speaking",
+            0.05550244078040123
+        ],
+        [
+            "message",
+            0.03589872643351555
+        ],
+        [
+            "giving",
+            0.023434652015566826
+        ],
+        [
+            "train",
+            0.01785368099808693
+        ],
+        [
+            "woman",
+            0.0168762244284153
+        ],
+        [
+            "front",
+            0.0064102280884981155
+        ],
+        [
+            "standing",
+            0.006404184736311436
+        ],
+        [
+            "background",
+            0.004645673558115959
+        ],
+        [
+            "behind",
+            0.004191676154732704
+        ],
+        [
+            "stands",
+            0.0021033717785030603
+        ],
+        [
+            "blue",
+            0.001138691557571292
+        ],
+        [
+            "white",
+            0.0001688362826826051
+        ]
+    ],
+    "captions": [
+        "a woman standing at a podium in front of a train"
+    ],
+    "english_cap": [
+        "a woman stands behind a podium with a political message",
+        "a woman standing at a podium on a train",
+        "a woman standing in front of a blue bus giving a speech",
+        "woman speaking at a podium with blue and white bus in background",
+        "the woman is giving a speech at the podium",
+        "a woman standing at a podium in front of a train"
+    ]
+}

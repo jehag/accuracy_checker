@@ -1,0 +1,91 @@
+{
+    "tags": [
+        [
+            "operating",
+            0.5738794207572937
+        ],
+        [
+            "surgical",
+            0.19401124119758606
+        ],
+        [
+            "medical",
+            0.0821496844291687
+        ],
+        [
+            "hospital",
+            0.07401730120182037
+        ],
+        [
+            "doctor",
+            0.0435919389128685
+        ],
+        [
+            "scrubs",
+            0.011265185661613941
+        ],
+        [
+            "man",
+            0.00962821114808321
+        ],
+        [
+            "air",
+            0.0066766999661922455
+        ],
+        [
+            "holding",
+            0.0009396410314366221
+        ],
+        [
+            "room",
+            0.00072450254810974
+        ],
+        [
+            "mask",
+            0.0007211647462099791
+        ],
+        [
+            "worker",
+            0.0005368500133045018
+        ],
+        [
+            "face",
+            0.00041371717816218734
+        ],
+        [
+            "hands",
+            0.00037505736690945923
+        ],
+        [
+            "hand",
+            0.0003652340092230588
+        ],
+        [
+            "shirt",
+            0.00034701035474427044
+        ],
+        [
+            "middle",
+            0.00015958509175106883
+        ],
+        [
+            "blue",
+            0.00014663832553196698
+        ],
+        [
+            "wearing",
+            5.098097608424723e-05
+        ]
+    ],
+    "captions": [
+        "a man in a hospital room wearing a surgical mask"
+    ],
+    "english_cap": [
+        "the doctor is wearing a face mask while holding out his hand",
+        "a man wearing a surgical mask in the middle of an operating room",
+        "a man in a blue shirt wearing a surgical mask",
+        "a medical worker has his hands in the air",
+        "a man in scrubs holding his hands out",
+        "a man in a hospital room wearing a surgical mask"
+    ]
+}

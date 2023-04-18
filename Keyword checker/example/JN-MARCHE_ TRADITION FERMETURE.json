@@ -1,0 +1,71 @@
+{
+    "tags": [
+        [
+            "storefront",
+            0.9152734279632568
+        ],
+        [
+            "store",
+            0.08113231509923935
+        ],
+        [
+            "building",
+            0.0010836758883669972
+        ],
+        [
+            "posters",
+            0.0007784892222844064
+        ],
+        [
+            "front",
+            0.0007319634896703064
+        ],
+        [
+            "street",
+            0.0006780339172109962
+        ],
+        [
+            "snow",
+            0.00013721677532885224
+        ],
+        [
+            "covered",
+            7.529019785579294e-05
+        ],
+        [
+            "side",
+            4.723574602394365e-05
+        ],
+        [
+            "bench",
+            3.239120633224957e-05
+        ],
+        [
+            "windows",
+            1.5249317584675737e-05
+        ],
+        [
+            "sides",
+            6.328878953354433e-06
+        ],
+        [
+            "red",
+            5.1638357945194e-06
+        ],
+        [
+            "yellow",
+            3.1799938824406127e-06
+        ]
+    ],
+    "captions": [
+        "a store front with a bench in front of it"
+    ],
+    "english_cap": [
+        "a storefront on the side of a street covered in snow",
+        "a red building with posters on the sides and windows",
+        "the side of a building with windows and posters",
+        "a store on the street side in front of a building",
+        "red and yellow building with windows covered with snow",
+        "a store front with a bench in front of it"
+    ]
+}

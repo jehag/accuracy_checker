@@ -1,0 +1,99 @@
+{
+    "tags": [
+        [
+            "flag",
+            0.9921239018440247
+        ],
+        [
+            "event",
+            0.0023339404724538326
+        ],
+        [
+            "blue",
+            0.0017872531898319721
+        ],
+        [
+            "group",
+            0.0007959355134516954
+        ],
+        [
+            "children",
+            0.0007561062229797244
+        ],
+        [
+            "people",
+            0.000737418478820473
+        ],
+        [
+            "large",
+            0.0003608462284319103
+        ],
+        [
+            "crowd",
+            0.0002557807310950011
+        ],
+        [
+            "looking",
+            0.00017690297681838274
+        ],
+        [
+            "watching",
+            0.00014954443031456321
+        ],
+        [
+            "walk",
+            0.00013466118252836168
+        ],
+        [
+            "front",
+            8.445466664852574e-05
+        ],
+        [
+            "snow",
+            8.062425331445411e-05
+        ],
+        [
+            "around",
+            6.858949200250208e-05
+        ],
+        [
+            "city",
+            5.06209944433067e-05
+        ],
+        [
+            "jacket",
+            3.26205299643334e-05
+        ],
+        [
+            "standing",
+            2.4977467546705157e-05
+        ],
+        [
+            "watch",
+            2.034679891949054e-05
+        ],
+        [
+            "woman",
+            1.2996951227250975e-05
+        ],
+        [
+            "next",
+            1.1842054846056271e-05
+        ],
+        [
+            "black",
+            6.096171318858978e-07
+        ]
+    ],
+    "captions": [
+        "a group of people standing next to each other"
+    ],
+    "english_cap": [
+        "a woman in a black jacket and some children",
+        "a crowd of people are watching some people walk around in the snow",
+        "people watch the event in front of a large blue flag",
+        "people standing on the snow with people looking",
+        "people looking at the snow in a city",
+        "a group of people standing next to each other"
+    ]
+}

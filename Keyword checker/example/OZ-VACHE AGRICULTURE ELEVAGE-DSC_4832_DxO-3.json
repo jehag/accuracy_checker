@@ -1,0 +1,79 @@
+{
+    "tags": [
+        [
+            "grazing",
+            0.43987157940864563
+        ],
+        [
+            "cows",
+            0.31146860122680664
+        ],
+        [
+            "graze",
+            0.13744701445102692
+        ],
+        [
+            "cattle",
+            0.058916665613651276
+        ],
+        [
+            "cow",
+            0.03831280767917633
+        ],
+        [
+            "field",
+            0.005842704325914383
+        ],
+        [
+            "grass",
+            0.0036317291669547558
+        ],
+        [
+            "grazes",
+            0.0017425691476091743
+        ],
+        [
+            "mountains",
+            0.0012021451257169247
+        ],
+        [
+            "green",
+            0.0006230773287825286
+        ],
+        [
+            "background",
+            0.0003772331401705742
+        ],
+        [
+            "near",
+            0.00027664611116051674
+        ],
+        [
+            "brown",
+            0.00014372001169249415
+        ],
+        [
+            "standing",
+            9.538065933156759e-05
+        ],
+        [
+            "open",
+            3.574847869458608e-05
+        ],
+        [
+            "black",
+            1.2349043572612572e-05
+        ]
+    ],
+    "captions": [
+        "a cow grazing in a field with other cows"
+    ],
+    "english_cap": [
+        "a brown cow standing in the grass grazing",
+        "some cows grazing in a field near mountains",
+        "a brown and black cow grazing on grass in an open field",
+        "a cow grazes on the grass as other cattle graze in the background",
+        "a cow grazing in a field of green grass with mountains in the background",
+        "a cow grazing in a field with other cows"
+    ]
+}

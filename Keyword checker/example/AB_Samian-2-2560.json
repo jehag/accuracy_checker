@@ -1,0 +1,91 @@
+{
+    "tags": [
+        [
+            "performing",
+            0.46990668773651123
+        ],
+        [
+            "concert",
+            0.2882767617702484
+        ],
+        [
+            "stage",
+            0.1798962950706482
+        ],
+        [
+            "lights",
+            0.023841332644224167
+        ],
+        [
+            "singing",
+            0.014383120462298393
+        ],
+        [
+            "top",
+            0.009583253413438797
+        ],
+        [
+            "microphone",
+            0.004860466346144676
+        ],
+        [
+            "young",
+            0.00466586509719491
+        ],
+        [
+            "cap",
+            0.0016124231042340398
+        ],
+        [
+            "standing",
+            0.0011808242416009307
+        ],
+        [
+            "man",
+            0.0005885364371351898
+        ],
+        [
+            "around",
+            0.0004245963355060667
+        ],
+        [
+            "hat",
+            0.00025136981275863945
+        ],
+        [
+            "men",
+            0.0001320473529631272
+        ],
+        [
+            "colorful",
+            0.00011158552661072463
+        ],
+        [
+            "black",
+            0.00010650896729202941
+        ],
+        [
+            "holding",
+            9.518245497019961e-05
+        ],
+        [
+            "jeans",
+            6.844055315013975e-05
+        ],
+        [
+            "sunglasses",
+            1.4650771845481358e-05
+        ]
+    ],
+    "captions": [
+        "a man standing on top of a stage holding a microphone"
+    ],
+    "english_cap": [
+        "a man in black hat and sunglasses on stage with microphone",
+        "some men standing around on stage with colorful lights",
+        "the young man is performing on stage during the concert",
+        "a man singing into a microphone on stage",
+        "a man in jeans and cap on a stage holding a microphone",
+        "a man standing on top of a stage holding a microphone"
+    ]
+}

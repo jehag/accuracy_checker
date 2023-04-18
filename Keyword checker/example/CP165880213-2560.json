@@ -1,0 +1,71 @@
+{
+    "tags": [
+        [
+            "speaking",
+            0.42039039731025696
+        ],
+        [
+            "speech",
+            0.1715460866689682
+        ],
+        [
+            "microphones",
+            0.14928650856018066
+        ],
+        [
+            "man",
+            0.109007328748703
+        ],
+        [
+            "conference",
+            0.0667446181178093
+        ],
+        [
+            "microphone",
+            0.023650038987398148
+        ],
+        [
+            "standing",
+            0.017403755336999893
+        ],
+        [
+            "giving",
+            0.016869181767106056
+        ],
+        [
+            "tie",
+            0.014021554961800575
+        ],
+        [
+            "making",
+            0.00322417332790792
+        ],
+        [
+            "suit",
+            0.0030608647502958775
+        ],
+        [
+            "gestures",
+            0.0029625273309648037
+        ],
+        [
+            "glasses",
+            0.0015787642914801836
+        ],
+        [
+            "black",
+            0.0002541473077144474
+        ]
+    ],
+    "captions": [
+        "a man in a suit and tie giving a speech"
+    ],
+    "english_cap": [
+        "the man is giving a speech at a microphone",
+        "a man standing at a microphone, making gestures",
+        "a man speaking at a conference speaking into microphones",
+        "the man in the suit and tie is making a speech",
+        "a man with black glasses is speaking at a microphone",
+        "a man in a suit and tie giving a speech"
+    ]
+}

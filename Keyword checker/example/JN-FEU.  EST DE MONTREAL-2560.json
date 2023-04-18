@@ -1,0 +1,123 @@
+{
+    "tags": [
+        [
+            "firefighters",
+            0.5155866146087646
+        ],
+        [
+            "firemen",
+            0.39431464672088623
+        ],
+        [
+            "extinguish",
+            0.08237742632627487
+        ],
+        [
+            "fire",
+            0.0036434039939194918
+        ],
+        [
+            "smoke",
+            0.001807507360354066
+        ],
+        [
+            "work",
+            0.0009213532321155071
+        ],
+        [
+            "truck",
+            0.0003184776578564197
+        ],
+        [
+            "job",
+            0.00027343202964402735
+        ],
+        [
+            "blaze",
+            0.00023425518884323537
+        ],
+        [
+            "group",
+            0.00016364584735129029
+        ],
+        [
+            "building",
+            6.460117583628744e-05
+        ],
+        [
+            "four",
+            4.663390063797124e-05
+        ],
+        [
+            "two",
+            4.110336158191785e-05
+        ],
+        [
+            "major",
+            3.9708866097498685e-05
+        ],
+        [
+            "car",
+            3.8514357584062964e-05
+        ],
+        [
+            "front",
+            3.460091465967707e-05
+        ],
+        [
+            "near",
+            1.616918780200649e-05
+        ],
+        [
+            "stand",
+            1.3767704331257846e-05
+        ],
+        [
+            "road",
+            1.2902183698315639e-05
+        ],
+        [
+            "street",
+            1.0638563253451139e-05
+        ],
+        [
+            "standing",
+            8.801671356195584e-06
+        ],
+        [
+            "put",
+            8.423970939475112e-06
+        ],
+        [
+            "middle",
+            7.762671884847805e-06
+        ],
+        [
+            "performing",
+            7.614299647684675e-06
+        ],
+        [
+            "best",
+            4.14111809732276e-06
+        ],
+        [
+            "side",
+            2.598684432086884e-06
+        ],
+        [
+            "filled",
+            1.2454671605155454e-06
+        ]
+    ],
+    "captions": [
+        "a group of firemen standing in front of a fire truck"
+    ],
+    "english_cap": [
+        "firefighters performing a job in front of a car filled with fire and smoke",
+        "firefighters and firemen work to extinguish a blaze on a building",
+        "two firemen do their best to put out a major blaze",
+        "four firefighters stand on the side of the road and put out the fire",
+        "firemen standing near a fire in the middle of a street",
+        "a group of firemen standing in front of a fire truck"
+    ]
+}

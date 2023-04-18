@@ -1,0 +1,79 @@
+{
+    "tags": [
+        [
+            "dog",
+            0.39094045758247375
+        ],
+        [
+            "little",
+            0.21428492665290833
+        ],
+        [
+            "woman",
+            0.16679583489894867
+        ],
+        [
+            "small",
+            0.07137740403413773
+        ],
+        [
+            "animal",
+            0.04169725254178047
+        ],
+        [
+            "sunflower",
+            0.030058246105909348
+        ],
+        [
+            "smiling",
+            0.02323809079825878
+        ],
+        [
+            "yellow",
+            0.017624234780669212
+        ],
+        [
+            "lap",
+            0.01603170670568943
+        ],
+        [
+            "holding",
+            0.0114321643486619
+        ],
+        [
+            "shoulder",
+            0.005519751459360123
+        ],
+        [
+            "arms",
+            0.004889216739684343
+        ],
+        [
+            "window",
+            0.002204497344791889
+        ],
+        [
+            "next",
+            0.001910719438455999
+        ],
+        [
+            "holds",
+            0.0017379173077642918
+        ],
+        [
+            "stuffed",
+            0.00025760222342796624
+        ]
+    ],
+    "captions": [
+        "a woman holding a small dog in her arms"
+    ],
+    "english_cap": [
+        "a woman holding a dog next to a window",
+        "a woman holding a dog in her arms",
+        "a woman smiling holding a little dog with a yellow sunflower in its lap",
+        "a woman holding her small dog with a stuffed animal on it's shoulder",
+        "a woman holds a small dog on her lap",
+        "a woman holding a small dog in her arms"
+    ]
+}

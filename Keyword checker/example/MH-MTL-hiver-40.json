@@ -1,0 +1,87 @@
+{
+    "tags": [
+        [
+            "blanket",
+            0.2322324812412262
+        ],
+        [
+            "person",
+            0.20340891182422638
+        ],
+        [
+            "people",
+            0.1273224651813507
+        ],
+        [
+            "covered",
+            0.11055237799882889
+        ],
+        [
+            "snow",
+            0.08597954362630844
+        ],
+        [
+            "standing",
+            0.06053907424211502
+        ],
+        [
+            "two",
+            0.04403093084692955
+        ],
+        [
+            "sit",
+            0.037395697087049484
+        ],
+        [
+            "woman",
+            0.022314704954624176
+        ],
+        [
+            "car",
+            0.02105707675218582
+        ],
+        [
+            "near",
+            0.015735507011413574
+        ],
+        [
+            "wrapped",
+            0.012059977278113365
+        ],
+        [
+            "side",
+            0.00626195827499032
+        ],
+        [
+            "sitting",
+            0.006158423610031605
+        ],
+        [
+            "road",
+            0.0054663680493831635
+        ],
+        [
+            "next",
+            0.004940242040902376
+        ],
+        [
+            "middle",
+            0.004152676556259394
+        ],
+        [
+            "pink",
+            0.00039160106098279357
+        ]
+    ],
+    "captions": [
+        "a woman sitting on the side of a road next to a car"
+    ],
+    "english_cap": [
+        "a woman wrapped in a blanket on the snow near a car",
+        "a person standing on the side of the road",
+        "a person in a pink blanket on the side of a road",
+        "a person sitting next to a car covered in snow",
+        "two people sit in the middle of the road",
+        "a woman sitting on the side of a road next to a car"
+    ]
+}

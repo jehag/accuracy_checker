@@ -1,0 +1,87 @@
+{
+    "tags": [
+        [
+            "crowd",
+            0.4768107533454895
+        ],
+        [
+            "flags",
+            0.3923298120498657
+        ],
+        [
+            "country",
+            0.04376882314682007
+        ],
+        [
+            "scottish",
+            0.025819912552833557
+        ],
+        [
+            "people",
+            0.01687079668045044
+        ],
+        [
+            "group",
+            0.014202814549207687
+        ],
+        [
+            "waving",
+            0.012340090237557888
+        ],
+        [
+            "blue",
+            0.003507349407300353
+        ],
+        [
+            "outside",
+            0.002593311946839094
+        ],
+        [
+            "greek",
+            0.0023976669181138277
+        ],
+        [
+            "many",
+            0.0022944489028304815
+        ],
+        [
+            "street",
+            0.001639057300053537
+        ],
+        [
+            "stand",
+            0.0012715649791061878
+        ],
+        [
+            "large",
+            0.0012713163159787655
+        ],
+        [
+            "balloons",
+            0.0012176652671769261
+        ],
+        [
+            "british",
+            0.0008329254924319685
+        ],
+        [
+            "holding",
+            0.0004793883999809623
+        ],
+        [
+            "city",
+            0.00035223577287979424
+        ]
+    ],
+    "captions": [
+        "a large group of people holding flags and balloons"
+    ],
+    "english_cap": [
+        "people stand outside, waving their scottish and british flags",
+        "a crowd of people are all waving blue flags",
+        "a group of people in a large city crowd with flags",
+        "many people in the street with flags and balloons",
+        "many people with the flags of greek country waving",
+        "a large group of people holding flags and balloons"
+    ]
+}

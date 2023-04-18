@@ -1,0 +1,95 @@
+{
+    "tags": [
+        [
+            "bears",
+            0.4343949258327484
+        ],
+        [
+            "teddy",
+            0.1534584015607834
+        ],
+        [
+            "animals",
+            0.10774558782577515
+        ],
+        [
+            "street",
+            0.09006509184837341
+        ],
+        [
+            "toys",
+            0.06976722925901413
+        ],
+        [
+            "young",
+            0.03255688399076462
+        ],
+        [
+            "boy",
+            0.023679334670305252
+        ],
+        [
+            "snow",
+            0.021453972905874252
+        ],
+        [
+            "man",
+            0.015454323962330818
+        ],
+        [
+            "person",
+            0.012535993941128254
+        ],
+        [
+            "several",
+            0.01134842075407505
+        ],
+        [
+            "display",
+            0.006137669086456299
+        ],
+        [
+            "standing",
+            0.006042386405169964
+        ],
+        [
+            "next",
+            0.0041952976025640965
+        ],
+        [
+            "front",
+            0.002796680899336934
+        ],
+        [
+            "sitting",
+            0.0027120374143123627
+        ],
+        [
+            "stuff",
+            0.002325283596292138
+        ],
+        [
+            "sits",
+            0.002113261027261615
+        ],
+        [
+            "stuffed",
+            0.0010102021042257547
+        ],
+        [
+            "pile",
+            0.0002070639602607116
+        ]
+    ],
+    "captions": [
+        "a person sitting in front of a pile of stuffed animals"
+    ],
+    "english_cap": [
+        "a boy sitting next to teddy bears in the snow",
+        "there is a young boy that is sitting in front of some stuff animals",
+        "the person is standing in front of some stuffed animals",
+        "a person sits on the street by several stuffed animals",
+        "man in front of a display with teddy bears and other toys",
+        "a person sitting in front of a pile of stuffed animals"
+    ]
+}

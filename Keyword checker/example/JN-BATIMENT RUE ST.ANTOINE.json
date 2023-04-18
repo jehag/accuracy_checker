@@ -1,0 +1,111 @@
+{
+    "tags": [
+        [
+            "buildings",
+            0.8270269632339478
+        ],
+        [
+            "city",
+            0.039858363568782806
+        ],
+        [
+            "scene",
+            0.022327151149511337
+        ],
+        [
+            "visible",
+            0.021305609494447708
+        ],
+        [
+            "street",
+            0.018533756956458092
+        ],
+        [
+            "old",
+            0.016891729086637497
+        ],
+        [
+            "one",
+            0.016829904168844223
+        ],
+        [
+            "large",
+            0.01133520808070898
+        ],
+        [
+            "behind",
+            0.004768677055835724
+        ],
+        [
+            "front",
+            0.0047218166291713715
+        ],
+        [
+            "another",
+            0.004661885555833578
+        ],
+        [
+            "near",
+            0.0027973116375505924
+        ],
+        [
+            "tall",
+            0.002304972382262349
+        ],
+        [
+            "barbed",
+            0.0012292457977309823
+        ],
+        [
+            "several",
+            0.0011447793804109097
+        ],
+        [
+            "car",
+            0.0009474158869124949
+        ],
+        [
+            "snow",
+            0.000788503501098603
+        ],
+        [
+            "driving",
+            0.0007368497317656875
+        ],
+        [
+            "next",
+            0.0005202874890528619
+        ],
+        [
+            "wire",
+            0.0004291056247893721
+        ],
+        [
+            "ground",
+            0.00031418298021890223
+        ],
+        [
+            "cars",
+            0.0002785214164759964
+        ],
+        [
+            "busy",
+            0.00021663382358383387
+        ],
+        [
+            "red",
+            3.1107170798350126e-05
+        ]
+    ],
+    "captions": [
+        "a red car driving down a street next to tall buildings"
+    ],
+    "english_cap": [
+        "old buildings next to a busy street with snow on the ground",
+        "a scene with buildings and a red car",
+        "red car in the snow in front of buildings",
+        "old buildings are visible behind barbed wire in a large city",
+        "several buildings and cars in the city near one another",
+        "a red car driving down a street next to tall buildings"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "tags": [
+        [
+            "men",
+            0.36711883544921875
+        ],
+        [
+            "two",
+            0.30347922444343567
+        ],
+        [
+            "ties",
+            0.08558832854032516
+        ],
+        [
+            "one",
+            0.06490348279476166
+        ],
+        [
+            "gentlemen",
+            0.05129149556159973
+        ],
+        [
+            "older",
+            0.045506320893764496
+        ],
+        [
+            "together",
+            0.03917951136827469
+        ],
+        [
+            "couple",
+            0.01250828430056572
+        ],
+        [
+            "wearing",
+            0.009710611775517464
+        ],
+        [
+            "event",
+            0.007731777615845203
+        ],
+        [
+            "next",
+            0.004023361019790173
+        ],
+        [
+            "camera",
+            0.002881840104237199
+        ],
+        [
+            "picture",
+            0.0028460633475333452
+        ],
+        [
+            "standing",
+            0.0020081200636923313
+        ],
+        [
+            "eyes",
+            0.0006497240974567831
+        ],
+        [
+            "posing",
+            0.0003645237011369318
+        ],
+        [
+            "with\u4ebb",
+            0.0002085295709548518
+        ]
+    ],
+    "captions": [
+        "a couple of men standing next to each other"
+    ],
+    "english_cap": [
+        "two men who are standing up together, one with\u4ebb eyes",
+        "two older men standing next to each other at an event",
+        "a couple of older gentlemen with ties on and posing for the camera",
+        "an older couple posing together for a picture",
+        "two men who are wearing ties and standing up",
+        "a couple of men standing next to each other"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "tags": [
+        [
+            "speaking",
+            0.5136022567749023
+        ],
+        [
+            "speech",
+            0.16993287205696106
+        ],
+        [
+            "man",
+            0.147400364279747
+        ],
+        [
+            "press",
+            0.03307356312870979
+        ],
+        [
+            "conference",
+            0.03156524524092674
+        ],
+        [
+            "holding",
+            0.027731571346521378
+        ],
+        [
+            "microphone",
+            0.01917194575071335
+        ],
+        [
+            "gesture",
+            0.01398471463471651
+        ],
+        [
+            "suit",
+            0.012773680500686169
+        ],
+        [
+            "hand",
+            0.007087419740855694
+        ],
+        [
+            "hands",
+            0.005496176891028881
+        ],
+        [
+            "making",
+            0.004527633544057608
+        ],
+        [
+            "speaks",
+            0.004371887072920799
+        ],
+        [
+            "front",
+            0.003038251306861639
+        ],
+        [
+            "raised",
+            0.0030132420361042023
+        ],
+        [
+            "side",
+            0.0013988004066050053
+        ],
+        [
+            "glasses",
+            0.0010909619741141796
+        ],
+        [
+            "jacket",
+            0.000739419658202678
+        ]
+    ],
+    "captions": [
+        "a man in a suit and glasses speaking into a microphone"
+    ],
+    "english_cap": [
+        "a man in glasses with his hands raised",
+        "the man with glasses is holding his hand up to the side",
+        "a man with glasses speaks in front of a microphone",
+        "a man in glasses and suit jacket making a hand gesture while speaking from a microphone",
+        "the man is making a speech at the press conference",
+        "a man in a suit and glasses speaking into a microphone"
+    ]
+}

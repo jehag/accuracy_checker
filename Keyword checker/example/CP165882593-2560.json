@@ -1,0 +1,95 @@
+{
+    "tags": [
+        [
+            "tennis",
+            0.33745652437210083
+        ],
+        [
+            "racket",
+            0.3223344683647156
+        ],
+        [
+            "racquet",
+            0.11635912209749222
+        ],
+        [
+            "young",
+            0.08544214814901352
+        ],
+        [
+            "court",
+            0.03886622190475464
+        ],
+        [
+            "top",
+            0.03455495089292526
+        ],
+        [
+            "player",
+            0.03071540966629982
+        ],
+        [
+            "playing",
+            0.008655495010316372
+        ],
+        [
+            "man",
+            0.006389189511537552
+        ],
+        [
+            "shirt",
+            0.004986970219761133
+        ],
+        [
+            "black",
+            0.004781987983733416
+        ],
+        [
+            "holding",
+            0.0032408181577920914
+        ],
+        [
+            "smiling",
+            0.0021900616120547056
+        ],
+        [
+            "mouth",
+            0.001668294076807797
+        ],
+        [
+            "open",
+            0.001580759766511619
+        ],
+        [
+            "wristband",
+            0.00028484014910645783
+        ],
+        [
+            "male",
+            0.0001733852259349078
+        ],
+        [
+            "white",
+            0.00014733977150171995
+        ],
+        [
+            "red",
+            0.00011321678903186694
+        ],
+        [
+            "wide",
+            5.875531132915057e-05
+        ]
+    ],
+    "captions": [
+        "a man holding a tennis racquet on a tennis court"
+    ],
+    "english_cap": [
+        "a male tennis player on a tennis court with a black shirt and white wristband",
+        "a man playing tennis and holding the racquet",
+        "a young man holding a tennis racquet on top of a court",
+        "man in red and black shirt holding a tennis racket",
+        "a man with a tennis racket smiling while holding his mouth wide open",
+        "a man holding a tennis racquet on a tennis court"
+    ]
+}

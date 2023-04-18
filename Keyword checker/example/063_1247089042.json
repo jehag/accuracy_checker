@@ -1,0 +1,119 @@
+{
+    "tags": [
+        [
+            "goalie",
+            0.5864384174346924
+        ],
+        [
+            "hockey",
+            0.15365828573703766
+        ],
+        [
+            "players",
+            0.11879931390285492
+        ],
+        [
+            "sticks",
+            0.03978383168578148
+        ],
+        [
+            "uniforms",
+            0.023359553888440132
+        ],
+        [
+            "game",
+            0.019227968528866768
+        ],
+        [
+            "gloves",
+            0.016015883535146713
+        ],
+        [
+            "opposing",
+            0.0073075364343822
+        ],
+        [
+            "two",
+            0.005477681756019592
+        ],
+        [
+            "player",
+            0.005404517985880375
+        ],
+        [
+            "end",
+            0.004938381724059582
+        ],
+        [
+            "talk",
+            0.004922568332403898
+        ],
+        [
+            "top",
+            0.0031478877644985914
+        ],
+        [
+            "crowd",
+            0.0021729739382863045
+        ],
+        [
+            "couple",
+            0.0015485945623368025
+        ],
+        [
+            "red",
+            0.0013481202768161893
+        ],
+        [
+            "talking",
+            0.0012794982176274061
+        ],
+        [
+            "ice",
+            0.0012287903809919953
+        ],
+        [
+            "another",
+            0.0012173234717920423
+        ],
+        [
+            "next",
+            0.0008372576558031142
+        ],
+        [
+            "playing",
+            0.0006962172337807715
+        ],
+        [
+            "shoulders",
+            0.0005667800433002412
+        ],
+        [
+            "men",
+            0.00044252147199586034
+        ],
+        [
+            "front",
+            7.68965037423186e-05
+        ],
+        [
+            "blue",
+            5.189276998862624e-05
+        ],
+        [
+            "standing",
+            5.1330374844837934e-05
+        ]
+    ],
+    "captions": [
+        "a couple of men standing next to each other in front of a crowd"
+    ],
+    "english_cap": [
+        "two hockey players in red and blue uniforms standing on the ice",
+        "a hockey player standing next to another on top of a ice",
+        "two opposing players with gloves and sticks on their shoulders, talking at the end of a game",
+        "two hockey players talk next to an ice - hockey goalie",
+        "two men who are playing a game of hockey",
+        "a couple of men standing next to each other in front of a crowd"
+    ]
+}

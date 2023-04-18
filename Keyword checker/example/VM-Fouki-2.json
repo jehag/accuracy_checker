@@ -1,0 +1,67 @@
+{
+    "tags": [
+        [
+            "disco",
+            0.980373740196228
+        ],
+        [
+            "ball",
+            0.007748245727270842
+        ],
+        [
+            "cap",
+            0.00591071043163538
+        ],
+        [
+            "man",
+            0.004897926934063435
+        ],
+        [
+            "standing",
+            0.0003104350180365145
+        ],
+        [
+            "wearing",
+            0.00020441628294065595
+        ],
+        [
+            "holding",
+            0.00013515872706193477
+        ],
+        [
+            "head",
+            0.000124931670143269
+        ],
+        [
+            "front",
+            0.00011332452413626015
+        ],
+        [
+            "face",
+            8.000385423656553e-05
+        ],
+        [
+            "shoulder",
+            4.4092837924836203e-05
+        ],
+        [
+            "holds",
+            4.393316703499295e-05
+        ],
+        [
+            "mirror",
+            1.3089398635202087e-05
+        ]
+    ],
+    "captions": [
+        "a man holding a disco ball up to his face"
+    ],
+    "english_cap": [
+        "a man standing in front of a mirror holding a disco ball",
+        "man holding up a disco ball over his head",
+        "a man holds up a disco ball on his shoulder",
+        "a man holding up a disco ball in front of his head",
+        "a man wearing a cap and holding a disco ball up to his head",
+        "a man holding a disco ball up to his face"
+    ]
+}

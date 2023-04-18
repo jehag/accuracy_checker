@@ -1,0 +1,95 @@
+{
+    "tags": [
+        [
+            "marching",
+            0.539469838142395
+        ],
+        [
+            "protestors",
+            0.185603067278862
+        ],
+        [
+            "protesters",
+            0.16278564929962158
+        ],
+        [
+            "protesting",
+            0.06490634381771088
+        ],
+        [
+            "crowd",
+            0.018092487007379532
+        ],
+        [
+            "photograph",
+            0.011726112104952335
+        ],
+        [
+            "group",
+            0.004646752029657364
+        ],
+        [
+            "street",
+            0.0021509418729692698
+        ],
+        [
+            "people",
+            0.0019070595735684037
+        ],
+        [
+            "back",
+            0.0016613297630101442
+        ],
+        [
+            "walking",
+            0.0015504180919378996
+        ],
+        [
+            "front",
+            0.0014931397745385766
+        ],
+        [
+            "sign",
+            0.001440633786842227
+        ],
+        [
+            "signposts",
+            0.0009669513674452901
+        ],
+        [
+            "standing",
+            0.0006948548252694309
+        ],
+        [
+            "large",
+            0.0005575695540755987
+        ],
+        [
+            "holding",
+            0.00016875586879905313
+        ],
+        [
+            "white",
+            0.00010081717482535169
+        ],
+        [
+            "building",
+            7.087099220370874e-05
+        ],
+        [
+            "black",
+            6.41178667137865e-06
+        ]
+    ],
+    "captions": [
+        "a large group of people marching down a street"
+    ],
+    "english_cap": [
+        "a crowd of people with signposts and protestors",
+        "people walking down the street holding a sign",
+        "black and white photograph of a large crowd marching in the street",
+        "there are people standing on the street and protesting",
+        "a group of protesters protesting in front of a building with sign on back",
+        "a large group of people marching down a street"
+    ]
+}

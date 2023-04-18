@@ -1,0 +1,79 @@
+{
+    "tags": [
+        [
+            "dogs",
+            0.7037370800971985
+        ],
+        [
+            "collars",
+            0.27495890855789185
+        ],
+        [
+            "two",
+            0.008675369434058666
+        ],
+        [
+            "couple",
+            0.006296670064330101
+        ],
+        [
+            "sitting",
+            0.0017616041004657745
+        ],
+        [
+            "looking",
+            0.0009476235136389732
+        ],
+        [
+            "window",
+            0.000799398054368794
+        ],
+        [
+            "sill",
+            0.0006231290171854198
+        ],
+        [
+            "small",
+            0.0005648587248288095
+        ],
+        [
+            "seat",
+            0.00041982540278695524
+        ],
+        [
+            "front",
+            0.0003440930158831179
+        ],
+        [
+            "standing",
+            0.00029340587207116187
+        ],
+        [
+            "door",
+            0.00017422542441636324
+        ],
+        [
+            "white",
+            0.0001705053000478074
+        ],
+        [
+            "camera",
+            0.00012430483184289187
+        ],
+        [
+            "next",
+            0.00010895015293499455
+        ]
+    ],
+    "captions": [
+        "a couple of white dogs sitting next to each other"
+    ],
+    "english_cap": [
+        "two white dogs with collars sitting on a window sill",
+        "two small dogs sitting next to each other on a window sill",
+        "two white dogs that are standing in front of a door",
+        "two small white dogs are looking at the camera",
+        "two small white dogs sitting on a seat",
+        "a couple of white dogs sitting next to each other"
+    ]
+}

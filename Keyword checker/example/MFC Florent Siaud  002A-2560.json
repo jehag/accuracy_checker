@@ -1,0 +1,87 @@
+{
+    "tags": [
+        [
+            "streetlights",
+            0.813555896282196
+        ],
+        [
+            "man",
+            0.05196838453412056
+        ],
+        [
+            "sweater",
+            0.03333451226353645
+        ],
+        [
+            "lights",
+            0.028278764337301254
+        ],
+        [
+            "street",
+            0.021908767521381378
+        ],
+        [
+            "sidewalk",
+            0.013058042153716087
+        ],
+        [
+            "light",
+            0.010874242521822453
+        ],
+        [
+            "wearing",
+            0.007706544827669859
+        ],
+        [
+            "city",
+            0.007310925517231226
+        ],
+        [
+            "standing",
+            0.00330639211460948
+        ],
+        [
+            "black",
+            0.0029171044006943703
+        ],
+        [
+            "lit",
+            0.001699676737189293
+        ],
+        [
+            "neck",
+            0.0014682719483971596
+        ],
+        [
+            "turtle",
+            0.0011612959206104279
+        ],
+        [
+            "front",
+            0.0004207126912660897
+        ],
+        [
+            "stands",
+            0.0003630476421676576
+        ],
+        [
+            "tree",
+            0.00035483622923493385
+        ],
+        [
+            "posing",
+            0.0003126784285996109
+        ]
+    ],
+    "captions": [
+        "a man standing in front of a tree on a city street"
+    ],
+    "english_cap": [
+        "the man stands under a street light wearing a turtle neck sweater",
+        "there is a man posing in front of the street",
+        "man in black sweater standing under street light on sidewalk",
+        "a man standing in front of a lit tree and some lights",
+        "a man is standing by some streetlights",
+        "a man standing in front of a tree on a city street"
+    ]
+}

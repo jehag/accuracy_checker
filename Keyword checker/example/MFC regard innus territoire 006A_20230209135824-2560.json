@@ -1,0 +1,99 @@
+{
+    "tags": [
+        [
+            "group",
+            0.5483492612838745
+        ],
+        [
+            "ladder",
+            0.32560643553733826
+        ],
+        [
+            "women",
+            0.06639232486486435
+        ],
+        [
+            "five",
+            0.019303789362311363
+        ],
+        [
+            "woman",
+            0.009361171163618565
+        ],
+        [
+            "wall",
+            0.007692420389503241
+        ],
+        [
+            "photographer",
+            0.004585064947605133
+        ],
+        [
+            "photo",
+            0.004088586661964655
+        ],
+        [
+            "four",
+            0.003630060935392976
+        ],
+        [
+            "standing",
+            0.002977862022817135
+        ],
+        [
+            "stand",
+            0.0021551665849983692
+        ],
+        [
+            "room",
+            0.0012022876180708408
+        ],
+        [
+            "painting",
+            0.0011482147965580225
+        ],
+        [
+            "smiling",
+            0.0010627437150105834
+        ],
+        [
+            "tall",
+            0.0006862243753857911
+        ],
+        [
+            "front",
+            0.0005963413859717548
+        ],
+        [
+            "pink",
+            0.0005501492996700108
+        ],
+        [
+            "pose",
+            0.00034037401201203465
+        ],
+        [
+            "next",
+            0.000168534810654819
+        ],
+        [
+            "taken",
+            8.457491640001535e-05
+        ],
+        [
+            "white",
+            1.8380520486971363e-05
+        ]
+    ],
+    "captions": [
+        "a group of women standing next to each other"
+    ],
+    "english_cap": [
+        "five smiling women in a photo taken by a photographer",
+        "five woman standing in front of a tall pink wall",
+        "four women stand in a white room, smiling",
+        "a group of women pose in front of a ladder",
+        "four women in front of a painting that is white",
+        "a group of women standing next to each other"
+    ]
+}
